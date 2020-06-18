@@ -1,0 +1,12 @@
+Mask\StockManagementRepository.class
+Mask\AbstractEvent.class
+Mask\StockManagementController.class
+Mask\AbstractEvent$1.class
+Mask\Application.class
+Mask\Returned.class
+Mask\config\kafka\KafkaProcessor.class
+Mask\PolicyHandler.class
+Mask\Put.class
+Mask\external\Stock.class
+Mask\StockManagement.class
+Mask\external\StockService.class
